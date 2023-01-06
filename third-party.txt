@@ -1,2 +1,8 @@
-Fonts
+Cursive font
 https://opentype.jp/kouzangyousho.htm
+
+JMdict for Japanese words
+http://www.edrdg.org/jmdict/j_jmdict.html
+
+Kanjidic2 for Kanji information
+http://www.edrdg.org/wiki/index.php/KANJIDIC_Project
