@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@font-face {
+    font-family: Kouzan;
+    src: url("./assets/KouzanGyoushoOTF.otf") format("opentype");
+}

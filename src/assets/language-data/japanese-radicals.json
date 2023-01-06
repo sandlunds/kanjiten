@@ -1,0 +1,450 @@
+[
+{"strokeCount":1,"radicalNumber":1,"radicalVariants":"","radical":"⼀","encoding":"KANGXI RADICAL ONE Unicode: U+2F00 UTF-8: E2 BC 80","meaning":"one, horizontal stroke","readingJ":"いち","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":1,"radicalNumber":2,"radicalVariants":"","radical":"⼁","encoding":"KANGXI RADICAL LINE Unicode: U+2F01 UTF-8: E2 BC 81","meaning":"vertical stroke","readingJ":"たてぼう","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":1,"radicalNumber":3,"radicalVariants":"","radical":"⼂","encoding":"KANGXI RADICAL DOT Unicode: U+2F02 UTF-8: E2 BC 82","meaning":"dot","readingJ":"てん","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":1,"radicalNumber":4,"radicalVariants":"","radical":"⼃","encoding":"KANGXI RADICAL SLASH Unicode: U+2F03 UTF-8: E2 BC 83","meaning":"diagonal sweeping stroke","readingJ":"の","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":1,"radicalNumber":5,"radicalVariants":"乚","radical":"⼄","encoding":"KANGXI RADICAL SECOND Unicode: U+2F04 UTF-8: E2 BC 84","meaning":"the second ","readingJ":"おつ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":1,"radicalNumber":6,"radicalVariants":"","radical":"⼅","encoding":"KANGXI RADICAL HOOK Unicode: U+2F05 UTF-8: E2 BC 85","meaning":"vertical stroke with a hook","readingJ":"はねぼう","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":7,"radicalVariants":"","radical":"⼆","encoding":"KANGXI RADICAL TWO Unicode: U+2F06 UTF-8: E2 BC 86","meaning":"two","readingJ":"に","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":8,"radicalVariants":"","radical":"⼇","encoding":"KANGXI RADICAL LID Unicode: U+2F07 UTF-8: E2 BC 87","meaning":"lid, top","readingJ":"なべぶた","positionJ":"かんむり","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":9,"radicalVariants":"亻","radical":"⼈","encoding":"KANGXI RADICAL MAN Unicode: U+2F08 UTF-8: E2 BC 88","meaning":"person","readingJ":"ひと","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":10,"radicalVariants":"","radical":"⼉","encoding":"KANGXI RADICAL LEGS Unicode: U+2F09 UTF-8: E2 BC 89","meaning":"human legs","readingJ":"ひとあし","positionJ":"あし","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":11,"radicalVariants":"","radical":"⼊","encoding":"KANGXI RADICAL ENTER Unicode: U+2F0A UTF-8: E2 BC 8A","meaning":"to enter","readingJ":"いる","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":12,"radicalVariants":"丷","radical":"⼋","encoding":"KANGXI RADICAL EIGHT Unicode: U+2F0B UTF-8: E2 BC 8B","meaning":"eight","readingJ":"はち","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":13,"radicalVariants":"","radical":"⼌ ","encoding":"KANGXI RADICAL DOWN BOX Unicode: U+2F0C UTF-8: E2 BC 8C","meaning":"to enclose","readingJ":"けいがまえ","positionJ":"かまえ, けいがまえ","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":14,"radicalVariants":"","radical":"⼍","encoding":"KANGXI RADICAL COVER Unicode: U+2F0D UTF-8: E2 BC 8D","meaning":"cover, crown","readingJ":"わかんむり","positionJ":"かんむり","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":15,"radicalVariants":"","radical":"⼎","encoding":"KANGXI RADICAL ICE Unicode: U+2F0E UTF-8: E2 BC 8E","meaning":"ice","readingJ":"にすい","positionJ":"へん","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":16,"radicalVariants":"","radical":"⼏","encoding":"KANGXI RADICAL TABLE Unicode: U+2F0F UTF-8: E2 BC 8F","meaning":"table","readingJ":"きにょう","positionJ":"つくり","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":17,"radicalVariants":"","radical":"⼐","encoding":"KANGXI RADICAL OPEN BOX Unicode: U+2F10 UTF-8: E2 BC 90","meaning":"container, open box","readingJ":"かんにょう","positionJ":"にょう","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":18,"radicalVariants":"刂","radical":"⼑","encoding":"KANGXI RADICAL KNIFE Unicode: U+2F11 UTF-8: E2 BC 91","meaning":"knife, sword","readingJ":"かたな","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":19,"radicalVariants":"","radical":"⼒","encoding":"KANGXI RADICAL POWER Unicode: U+2F12 UTF-8: E2 BC 92","meaning":"power","readingJ":"ちから","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":20,"radicalVariants":"","radical":"⼓","encoding":"KANGXI RADICAL WRAP Unicode: U+2F13 UTF-8: E2 BC 93","meaning":"to wrap","readingJ":"つつみがまえ","positionJ":"かまえ, つつみがまえ","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":21,"radicalVariants":"","radical":"⼔","encoding":"KANGXI RADICAL SPOON Unicode: U+2F14 UTF-8: E2 BC 94","meaning":"spoon","readingJ":"さじ","positionJ":"つくり","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":22,"radicalVariants":"","radical":"⼕","encoding":"KANGXI RADICAL RIGHT OPEN BOX Unicode: U+2F15 UTF-8: E2 BC 95","meaning":"box","readingJ":"はこがまえ","positionJ":"かまえ, はこがまえ","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":23,"radicalVariants":"","radical":"⼖","encoding":"KANGXI RADICAL HIDING ENCLOSURE Unicode: U+2F16 UTF-8: E2 BC 96","meaning":"to conceal, hide","readingJ":"かくしがまえ","positionJ":"かまえ, はこがまえ","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":24,"radicalVariants":"","radical":"⼗","encoding":"KANGXI RADICAL TEN Unicode: U+2F17 UTF-8: E2 BC 97","meaning":"ten","readingJ":"じゅう","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":25,"radicalVariants":"","radical":"⼘","encoding":"KANGXI RADICAL DIVINATION Unicode: U+2F18 UTF-8: E2 BC 98","meaning":"oracle","readingJ":"ぼく","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":26,"radicalVariants":"㔾","radical":"⼙","encoding":"KANGXI RADICAL SEAL Unicode: U+2F19 UTF-8: E2 BC 99","meaning":"stamp, seal","readingJ":"ふしづくり","positionJ":"つくり","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":27,"radicalVariants":"","radical":"⼚","encoding":"KANGXI RADICAL CLIFF Unicode: U+2F1A UTF-8: E2 BC 9A","meaning":"cliff","readingJ":"がんだれ","positionJ":"たれ","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":28,"radicalVariants":"","radical":"⼛","encoding":"KANGXI RADICAL PRIVATE Unicode: U+2F1B UTF-8: E2 BC 9B","meaning":"private, Katakana Mu","readingJ":"む","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":2,"radicalNumber":29,"radicalVariants":"","radical":"⼜","encoding":"KANGXI RADICAL AGAIN Unicode: U+2F1C UTF-8: E2 BC 9C","meaning":"again, right hand","readingJ":"また","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":30,"radicalVariants":"","radical":"⼝","encoding":"KANGXI RADICAL MOUTH Unicode: U+2F1D UTF-8: E2 BC 9D","meaning":"mouth","readingJ":"くち","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":31,"radicalVariants":"","radical":"⼞","encoding":"KANGXI RADICAL ENCLOSURE Unicode: U+2F1E UTF-8: E2 BC 9E","meaning":"border, territorial boundaries","readingJ":"くにがまえ","positionJ":"かまえ, くにがまえ","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":32,"radicalVariants":"","radical":"⼟","encoding":"KANGXI RADICAL EARTH Unicode: U+2F1F UTF-8: E2 BC 9F","meaning":"earth","readingJ":"つち","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":33,"radicalVariants":"","radical":"⼠","encoding":"KANGXI RADICAL SCHOLAR Unicode: U+2F20 UTF-8: E2 BC A0","meaning":"man, scholar, samurai","readingJ":"さむらい","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":34,"radicalVariants":"","radical":"⼡","encoding":"KANGXI RADICAL GO Unicode: U+2F21 UTF-8: E2 BC A1","meaning":"to follow","readingJ":"のまた","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":35,"radicalVariants":"","radical":"⼢","encoding":"KANGXI RADICAL GO SLOWLY Unicode: U+2F22 UTF-8: E2 BC A2","meaning":"to go slowly","readingJ":"なつあし","positionJ":"あし","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":36,"radicalVariants":"","radical":"⼣","encoding":"KANGXI RADICAL EVENING Unicode: U+2F23 UTF-8: E2 BC A3","meaning":"evening","readingJ":"ゆうべ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":37,"radicalVariants":"","radical":"⼤","encoding":"KANGXI RADICAL BIG Unicode: U+2F24 UTF-8: E2 BC A4","meaning":"large, big","readingJ":"だい","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":38,"radicalVariants":"","radical":"⼥","encoding":"KANGXI RADICAL WOMAN Unicode: U+2F25 UTF-8: E2 BC A5","meaning":"woman","readingJ":"おんな","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":39,"radicalVariants":"","radical":"⼦","encoding":"KANGXI RADICAL CHILD Unicode: U+2F26 UTF-8: E2 BC A6","meaning":"child, son","readingJ":"こ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":40,"radicalVariants":"","radical":"⼧","encoding":"KANGXI RADICAL ROOF Unicode: U+2F27 UTF-8: E2 BC A7","meaning":"roof, house","readingJ":"うかんむり","positionJ":"かんむり","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":41,"radicalVariants":"","radical":"⼨","encoding":"KANGXI RADICAL INCH Unicode: U+2F28 UTF-8: E2 BC A8","meaning":"inch, (2.25 cm)","readingJ":"すん","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":42,"radicalVariants":"⺌、⺍","radical":"⼩","encoding":"KANGXI RADICAL SMALL Unicode: U+2F29 UTF-8: E2 BC A9","meaning":"small","readingJ":"しょう","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":43,"radicalVariants":"尣","radical":"⼪","encoding":"KANGXI RADICAL LAME Unicode: U+2F2A","meaning":"lame leg","readingJ":"だいのまげあし","positionJ":"つくり","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":44,"radicalVariants":"","radical":"⼫","encoding":"KANGXI RADICAL CORPSE Unicode: U+2F2B UTF-8: E2 BC AB","meaning":"corpse, awning","readingJ":"しかばね","positionJ":"たれ","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":45,"radicalVariants":"","radical":"⼬","encoding":"KANGXI RADICAL SPROUT Unicode: U+2F2C UTF-8: E2 BC AC","meaning":"sprout","readingJ":"くさのめ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":46,"radicalVariants":"","radical":"⼭","encoding":"KANGXI RADICAL MOUNTAIN Unicode: U+2F2D UTF-8: E2 BC AD","meaning":"mountain","readingJ":"やま","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":47,"radicalVariants":"川","radical":"⼮","encoding":"KANGXI RADICAL RIVER Unicode: U+2F2E UTF-8: E2 BC AE","meaning":"winding river","readingJ":"まがりがわ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":48,"radicalVariants":"","radical":"⼯","encoding":"KANGXI RADICAL WORK Unicode: U+2F2F UTF-8: E2 BC AF","meaning":"work, carpenter, skill","readingJ":"たくみ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":49,"radicalVariants":"","radical":"⼰","encoding":"KANGXI RADICAL ONESELF Unicode: U+2F30 UTF-8: E2 BC B0","meaning":"self","readingJ":"おのれ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":50,"radicalVariants":"","radical":"⼱","encoding":"KANGXI RADICAL TURBAN Unicode: U+2F31 UTF-8: E2 BC B1","meaning":"cloth","readingJ":"はば","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":51,"radicalVariants":"","radical":"⼲","encoding":"KANGXI RADICAL DRY Unicode: U+2F32 UTF-8: E2 BC B2","meaning":"to dry, shield","readingJ":"かん","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":52,"radicalVariants":"么","radical":"⼳","encoding":"KANGXI RADICAL SHORT THREAD Unicode: U+2F33","meaning":"young, slight","readingJ":"いとがしら","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":53,"radicalVariants":"","radical":"⼴","encoding":"KANGXI RADICAL DOTTED CLIFF Unicode: U+2F34 UTF-8: E2 BC B4","meaning":"slanting roof","readingJ":"まだれ","positionJ":"たれ","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":54,"radicalVariants":"","radical":"⼵","encoding":"KANGXI RADICAL LONG STRIDE Unicode: U+2F35 UTF-8: E2 BC B5","meaning":"to move, stretch","readingJ":"えんにょう","positionJ":"にょう","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":55,"radicalVariants":"","radical":"⼶","encoding":"KANGXI RADICAL TWO HANDS Unicode: U+2F36 UTF-8: E2 BC B6","meaning":"folded hands","readingJ":"にじゅうあし","positionJ":"あし","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":56,"radicalVariants":"","radical":"⼷","encoding":"KANGXI RADICAL SHOOT Unicode: U+2F37 UTF-8: E2 BC B7","meaning":"javelin","readingJ":"いぐるみ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":57,"radicalVariants":"","radical":"⼸","encoding":"KANGXI RADICAL BOW Unicode: U+2F38 UTF-8: E2 BC B8","meaning":"bow （in archery）","readingJ":"ゆみ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":58,"radicalVariants":"彑","radical":"⼹","encoding":"KANGXI RADICAL SNOUT Unicode: U+2F39 UTF-8: E2 BC B9","meaning":"pig’s head","readingJ":"けいがしら","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":59,"radicalVariants":"","radical":"⼺","encoding":"KANGXI RADICAL BRISTLE Unicode: U+2F3A UTF-8: E2 BC BA","meaning":"hair-style, light rays","readingJ":"さんづくり","positionJ":"つくり","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":60,"radicalVariants":"","radical":"⼻","encoding":"KANGXI RADICAL STEP Unicode: U+2F3B UTF-8: E2 BC BB","meaning":"step, stride, street, to go","readingJ":"ぎょうにんべん","positionJ":"へん","variant":false,"common":false}
+,
+{"strokeCount":3,"radicalNumber":61,"radicalVariants":"","radical":"⺖","encoding":"CJK RADICAL HEART ONE Unicode: U+2E96 UTF-8: E2 BA 96","meaning":"heart, mind, spirit","readingJ":"りっしんべん","positionJ":"へん","variant":true,"common":true}
+,
+{"strokeCount":3,"radicalNumber":64,"radicalVariants":"","radical":"⺘","encoding":"CJK RADICAL HAND Unicode: U+2E98 UTF-8: E2 BA 98","meaning":"hand","readingJ":"てへん","positionJ":"へん","variant":true,"common":false}
+,
+{"strokeCount":3,"radicalNumber":85,"radicalVariants":"","radical":"⺡","encoding":"CJK RADICAL WATER ONE Unicode: U+2EA1 UTF-8: E2 BA A1","meaning":"water","readingJ":"さんずい","positionJ":"へん","variant":true,"common":true}
+,
+{"strokeCount":3,"radicalNumber":94,"radicalVariants":"","radical":"⺨","encoding":"CJK RADICAL DOG Unicode: U+2EA8 UTF-8: E2 BA A8","meaning":"beast","readingJ":"けものへん","positionJ":"へん","variant":true,"common":false}
+,
+{"strokeCount":3,"radicalNumber":140,"radicalVariants":"","radical":"⺾","encoding":"CJK RADICAL GRASS ONE Unicode: U+2EBE UTF-8: E2 BA BE","meaning":"grass","readingJ":"くさかんむり","positionJ":"かんむり","variant":true,"common":true}
+,
+{"strokeCount":3,"radicalNumber":162,"radicalVariants":"","radical":"⻌","encoding":"CJK RADICAL SIMPLIFIED WALK Unicode: U+2ECC UTF-8: E2 BB 8C","meaning":"road, walk, to advance","readingJ":"しんにょう","positionJ":"にょう","variant":true,"common":false}
+,
+{"strokeCount":3,"radicalNumber":163,"radicalVariants":"","radical":"⻏","encoding":"CJK RADICAL CITY Unicode: U+2ECF UTF-8: E2 BB 8F","meaning":"village, country, city","readingJ":"おおざと","positionJ":"つくり","variant":true,"common":false}
+,
+{"strokeCount":3,"radicalNumber":170,"radicalVariants":"","radical":"⻖","encoding":"CJK RADICAL MOUND TWO Unicode: U+2ED6 UTF-8: E2 BB 96","meaning":"hill, mound","readingJ":"こざとへん","positionJ":"へん","variant":true,"common":false}
+,
+{"strokeCount":4,"radicalNumber":61,"radicalVariants":"忄、⺗","radical":"⼼","encoding":"KANGXI RADICAL HEART Unicode: U+2F3C UTF-8: E2 BC BC","meaning":"heart, mind, spirit","readingJ":"こころ","positionJ":"","variant":false,"common":true}
+,
+{"strokeCount":4,"radicalNumber":62,"radicalVariants":"","radical":"⼽","encoding":"KANGXI RADICAL HALBERD Unicode: U+2F3D UTF-8: E2 BC BD","meaning":"spear, weapon","readingJ":"ほこ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":63,"radicalVariants":"戸","radical":"⼾","encoding":"KANGXI RADICAL DOOR Unicode: U+2F3E UTF-8: E2 BC BE","meaning":"door","readingJ":"と","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":64,"radicalVariants":"扌、龵","radical":"⼿","encoding":"KANGXI RADICAL HAND Unicode: U+2F3F UTF-8: E2 BC BF","meaning":"hand","readingJ":"て","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":65,"radicalVariants":"","radical":"⽀","encoding":"KANGXI RADICAL BRANCH Unicode: U+2F40 UTF-8: E2 BD 80","meaning":"branch","readingJ":"しにょう","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":66,"radicalVariants":"攵","radical":"⽁","encoding":"KANGXI RADICAL RAP Unicode: U+2F41 UTF-8: E2 BD 81","meaning":"activity, to strike, hit","readingJ":"ぼくづくり","positionJ":"つくり","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":67,"radicalVariants":"","radical":"⽂","encoding":"KANGXI RADICAL SCRIPT Unicode: U+2F42 UTF-8: E2 BD 82","meaning":"literature, letters","readingJ":"ぶん","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":68,"radicalVariants":"","radical":"⽃","encoding":"KANGXI RADICAL DIPPER Unicode: U+2F43 UTF-8: E2 BD 83","meaning":"big dipper, ladle, 18 liters","readingJ":"ますづくり","positionJ":"つくり","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":69,"radicalVariants":"","radical":"⽄","encoding":"KANGXI RADICAL AXE Unicode: U+2F44 UTF-8: E2 BD 84","meaning":"axe","readingJ":"おのづくり","positionJ":"つくり","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":70,"radicalVariants":"","radical":"⽅","encoding":"KANGXI RADICAL SQUARE Unicode: U+2F45 UTF-8: E2 BD 85","meaning":"direction, flag","readingJ":"ほう","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":71,"radicalVariants":"旡","radical":"⽆","encoding":"KANGXI RADICAL NOT Unicode: U+2F46 UTF-8: E2 BD 86","meaning":"not","readingJ":"むにょう","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":72,"radicalVariants":"","radical":"⽇","encoding":"KANGXI RADICAL SUN Unicode: U+2F47 UTF-8: E2 BD 87","meaning":"sun, day, time","readingJ":"ひ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":73,"radicalVariants":"","radical":"⽈","encoding":"KANGXI RADICAL SAY Unicode: U+2F48 UTF-8: E2 BD 88","meaning":"to say","readingJ":"ひらび","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":74,"radicalVariants":"","radical":"⽉","encoding":"KANGXI RADICAL MOON Unicode: U+2F49 UTF-8: E2 BD 89","meaning":"moon, month, period","readingJ":"つき","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":75,"radicalVariants":"","radical":"⽊","encoding":"KANGXI RADICAL TREE Unicode: U+2F4A UTF-8: E2 BD 8A","meaning":"tree, wood","readingJ":"き","positionJ":"","variant":false,"common":true}
+,
+{"strokeCount":4,"radicalNumber":76,"radicalVariants":"","radical":"⽋","encoding":"KANGXI RADICAL LACK Unicode: U+2F4B UTF-8: E2 BD 8B","meaning":"to lack, yawn","readingJ":"あくび","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":77,"radicalVariants":"","radical":"⽌","encoding":"KANGXI RADICAL STOP Unicode: U+2F4C UTF-8: E2 BD 8C","meaning":"to stop","readingJ":"とめる","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":78,"radicalVariants":"歺","radical":"⽍","encoding":"KANGXI RADICAL DEATH Unicode: U+2F4D UTF-8: E2 BD 8D","meaning":"death & dying, to decompose","readingJ":"がつ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":79,"radicalVariants":"","radical":"⽎","encoding":"KANGXI RADICAL WEAPON Unicode: U+2F4E UTF-8: E2 BD 8E","meaning":"lance shaft, action","readingJ":"るまた","positionJ":"つくり","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":80,"radicalVariants":"母","radical":"⽏","encoding":"KANGXI RADICAL DO NOT Unicode: U+2F4F UTF-8: E2 BD 8F","meaning":"not, mother","readingJ":"なかれ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":81,"radicalVariants":"","radical":"⽐","encoding":"KANGXI RADICAL COMPARE Unicode: U+2F50 UTF-8: E2 BD 90","meaning":"to compare","readingJ":"くらべる","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":82,"radicalVariants":"","radical":"⽑","encoding":"KANGXI RADICAL FUR Unicode: U+2F51 UTF-8: E2 BD 91","meaning":"hair","readingJ":"け","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":83,"radicalVariants":"","radical":"⽒","encoding":"KANGXI RADICAL CLAN Unicode: U+2F52 UTF-8: E2 BD 92","meaning":"family, clan","readingJ":"うじ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":84,"radicalVariants":"","radical":"⽓","encoding":"KANGXI RADICAL STEAM Unicode: U+2F53 UTF-8: E2 BD 93","meaning":"steam, air","readingJ":"きがまえ","positionJ":"かまえ, きがまえ","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":85,"radicalVariants":"氵、氺","radical":"⽔","encoding":"KANGXI RADICAL WATER Unicode: U+2F54 UTF-8: E2 BD 94","meaning":"water","readingJ":"みず","positionJ":"","variant":false,"common":true}
+,
+{"strokeCount":4,"radicalNumber":86,"radicalVariants":"灬","radical":"⽕","encoding":"KANGXI RADICAL FIRE Unicode: U+2F55 UTF-8: E2 BD 95","meaning":"fire","readingJ":"ひ","positionJ":"","variant":false,"common":true}
+,
+{"strokeCount":4,"radicalNumber":87,"radicalVariants":"爫","radical":"⽖","encoding":"KANGXI RADICAL CLAW Unicode: U+2F56 UTF-8: E2 BD 96","meaning":"claw, nail","readingJ":"つめ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":88,"radicalVariants":"","radical":"⽗","encoding":"KANGXI RADICAL FATHER Unicode: U+2F57 UTF-8: E2 BD 97","meaning":"father","readingJ":"ちち","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":89,"radicalVariants":"","radical":"⽘","encoding":"KANGXI RADICAL DOUBLE X Unicode: U+2F58 UTF-8: E2 BD 98","meaning":"to mix","readingJ":"こう","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":90,"radicalVariants":"丬","radical":"⽙","encoding":"KANGXI RADICAL HALF TREE TRUNK Unicode: U+2F59 UTF-8: E2 BD 99","meaning":"split wood","readingJ":"しょうへん","positionJ":"へん","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":91,"radicalVariants":"","radical":"⽚","encoding":"KANGXI RADICAL SLICE Unicode: U+2F5A UTF-8: E2 BD 9A","meaning":"split wood","readingJ":"かた","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":92,"radicalVariants":"","radical":"⽛","encoding":"KANGXI RADICAL FANG Unicode: U+2F5B","meaning":"fang, canine tooth","readingJ":"きば","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":93,"radicalVariants":"牜、⺧","radical":"⽜","encoding":"KANGXI RADICAL COW Unicode: U+2F5C UTF-8: E2 BD 9C","meaning":"cow","readingJ":"うし","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":94,"radicalVariants":"犭","radical":"⽝","encoding":"KANGXI RADICAL DOG Unicode: U+2F5D UTF-8: E2 BD 9D","meaning":"dog","readingJ":"いぬ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":4,"radicalNumber":61,"radicalVariants":"","radical":"⺗","encoding":"CJK RADICAL HEART TWO Unicode: U+2E97 UTF-8: E2 BA 97","meaning":"heart, mind, spirit","readingJ":"したごころ","positionJ":"あし","variant":true,"common":true}
+,
+{"strokeCount":4,"radicalNumber":86,"radicalVariants":"","radical":"⺣","encoding":"CJK RADICAL FIRE Unicode: U+2EA3 UTF-8: E2 BA A3","meaning":"fire","readingJ":"れっか","positionJ":"あし","variant":true,"common":true}
+,
+{"strokeCount":5,"radicalNumber":95,"radicalVariants":"玄","radical":"⽞","encoding":"KANGXI RADICAL PROFOUND Unicode: U+2F5E UTF-8: E2 BD 9E","meaning":"darkness","readingJ":"げん","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":96,"radicalVariants":"王、玊","radical":"⽟","encoding":"KANGXI RADICAL JADE Unicode: U+2F5F UTF-8: E2 BD 9F","meaning":"jewelry","readingJ":"たま","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":97,"radicalVariants":"","radical":"⽠","encoding":"KANGXI RADICAL MELON Unicode: U+2F60 UTF-8: E2 BD A0","meaning":"melon","readingJ":"うり","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":98,"radicalVariants":"","radical":"⽡","encoding":"KANGXI RADICAL TILE Unicode: U+2F61 UTF-8: E2 BD A1","meaning":"tile","readingJ":"かわら","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":99,"radicalVariants":"","radical":"⽢","encoding":"KANGXI RADICAL SWEET Unicode: U+2F62 UTF-8: E2 BD A2","meaning":"sweet","readingJ":"あまい","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":100,"radicalVariants":"","radical":"⽣","encoding":"KANGXI RADICAL LIFE Unicode: U+2F63 UTF-8: E2 BD A3","meaning":"birth, to be born, live","readingJ":"うまれる","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":101,"radicalVariants":"","radical":"⽤","encoding":"KANGXI RADICAL USE Unicode: U+2F64 UTF-8: E2 BD A4","meaning":"to use","readingJ":"もちいる","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":102,"radicalVariants":"","radical":"⽥","encoding":"KANGXI RADICAL FIELD Unicode: U+2F65 UTF-8: E2 BD A5","meaning":"rice paddy","readingJ":"た","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":103,"radicalVariants":"⺪","radical":"⽦","encoding":"KANGXI RADICAL BOLT OF CLOTH Unicode: U+2F66 UTF-8: E2 BD A6","meaning":"bolt of cloth","readingJ":"ひき","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":104,"radicalVariants":"","radical":"⽧","encoding":"KANGXI RADICAL SICKNESS Unicode: U+2F67 UTF-8: E2 BD A7","meaning":"sickness","readingJ":"やまいだれ","positionJ":"たれ","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":105,"radicalVariants":"","radical":"⽨","encoding":"KANGXI RADICAL DOTTED TENT Unicode: U+2F68 UTF-8: E2 BD A8","meaning":"outspread legs, departure","readingJ":"はつがしら","positionJ":"かんむり","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":106,"radicalVariants":"","radical":"⽩","encoding":"KANGXI RADICAL WHITE Unicode: U+2F69 UTF-8: E2 BD A9","meaning":"white","readingJ":"しろ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":107,"radicalVariants":"","radical":"⽪","encoding":"KANGXI RADICAL SKIN Unicode: U+2F6A UTF-8: E2 BD AA","meaning":"skin, hide","readingJ":"けがわ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":108,"radicalVariants":"","radical":"⽫","encoding":"KANGXI RADICAL DISH Unicode: U+2F6B UTF-8: E2 BD AB","meaning":"plate, bowl","readingJ":"さら","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":109,"radicalVariants":"⺫","radical":"⽬","encoding":"KANGXI RADICAL EYE Unicode: U+2F6C UTF-8: E2 BD AC","meaning":"eye","readingJ":"め","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":110,"radicalVariants":"","radical":"⽭","encoding":"KANGXI RADICAL SPEAR Unicode: U+2F6D UTF-8: E2 BD AD","meaning":"halberd","readingJ":"ほこ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":111,"radicalVariants":"","radical":"⽮","encoding":"KANGXI RADICAL ARROW Unicode: U+2F6E UTF-8: E2 BD AE","meaning":"arrow","readingJ":"や","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":112,"radicalVariants":"","radical":"⽯","encoding":"KANGXI RADICAL STONE Unicode: U+2F6F UTF-8: E2 BD AF","meaning":"stone","readingJ":"いし","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":113,"radicalVariants":"礻","radical":"⽰","encoding":"KANGXI RADICAL SPIRIT Unicode: U+2F70 UTF-8: E2 BD B0","meaning":"altar, festival, religious service","readingJ":"しめす","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":114,"radicalVariants":"","radical":"⽱","encoding":"KANGXI RADICAL TRACK Unicode: U+2F71 UTF-8: E2 BD B1","meaning":"footprint","readingJ":"じゅうのあし","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":115,"radicalVariants":"","radical":"⽲","encoding":"KANGXI RADICAL GRAIN Unicode: U+2F72 UTF-8: E2 BD B2","meaning":"grain","readingJ":"のぎへん","positionJ":"へん","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":116,"radicalVariants":"","radical":"⽳","encoding":"KANGXI RADICAL CAVE Unicode: U+2F73 UTF-8: E2 BD B3","meaning":"hole, cave","readingJ":"あな","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":5,"radicalNumber":117,"radicalVariants":"","radical":"⽴","encoding":"KANGXI RADICAL STAND Unicode: U+2F74 UTF-8: E2 BD B4","meaning":"to stand","readingJ":"たつ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":118,"radicalVariants":"⺮","radical":"⽵","encoding":"KANGXI RADICAL BAMBOO Unicode: U+2F75 UTF-8: E2 BD B5","meaning":"bamboo","readingJ":"たけ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":119,"radicalVariants":"","radical":"⽶","encoding":"KANGXI RADICAL RICE Unicode: U+2F76 UTF-8: E2 BD B6","meaning":"rice","readingJ":"こめ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":120,"radicalVariants":"糹","radical":"⽷","encoding":"KANGXI RADICAL SILK Unicode: U+2F77 UTF-8: E2 BD B7","meaning":"thread","readingJ":"いと","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":121,"radicalVariants":"","radical":"⽸","encoding":"KANGXI RADICAL JAR Unicode: U+2F78 UTF-8: E2 BD B8","meaning":"earthen jar","readingJ":"みずがめ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":122,"radicalVariants":"⺲、罓、⺳","radical":"⽹","encoding":"KANGXI RADICAL NET Unicode: U+2F79 UTF-8: E2 BD B9","meaning":"net","readingJ":"あみめ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":123,"radicalVariants":"⺶、⺷","radical":"⽺","encoding":"KANGXI RADICAL SHEEP Unicode: U+2F7A UTF-8: E2 BD BA","meaning":"sheep","readingJ":"ひつじ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":124,"radicalVariants":"","radical":"⽻","encoding":"KANGXI RADICAL FEATHER Unicode: U+2F7B UTF-8: E2 BD BB","meaning":"feather, wing","readingJ":"はね","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":125,"radicalVariants":"耂","radical":"⽼","encoding":"KANGXI RADICAL OLD Unicode: U+2F7C UTF-8: E2 BD BC","meaning":"old, old-age","readingJ":"おいかんむり","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":126,"radicalVariants":"","radical":"⽽","encoding":"KANGXI RADICAL AND Unicode: U+2F7D UTF-8: E2 BD BD","meaning":"and also","readingJ":"しこうして","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":127,"radicalVariants":"","radical":"⽾","encoding":"KANGXI RADICAL PLOW Unicode: U+2F7E UTF-8: E2 BD BE","meaning":"plow","readingJ":"らいすき","positionJ":"へん","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":128,"radicalVariants":"","radical":"⽿","encoding":"KANGXI RADICAL EAR Unicode: U+2F7F UTF-8: E2 BD BF","meaning":"ear","readingJ":"みみ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":129,"radicalVariants":"⺺、⺻","radical":"⾀","encoding":"KANGXI RADICAL BRUSH Unicode: U+2F80 UTF-8: E2 BE 80","meaning":"writing brush","readingJ":"ふでづくり","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":130,"radicalVariants":"⺼","radical":"⾁","encoding":"KANGXI RADICAL MEAT Unicode: U+2F81 UTF-8: E2 BE 81","meaning":"flesh, meat","readingJ":"にく","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":131,"radicalVariants":"","radical":"⾂","encoding":"KANGXI RADICAL MINISTER Unicode: U+2F82 UTF-8: E2 BE 82","meaning":"retainer, minister","readingJ":"しん","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":132,"radicalVariants":"","radical":"⾃","encoding":"KANGXI RADICAL SELF Unicode: U+2F83 UTF-8: E2 BE 83","meaning":"self","readingJ":"みずから","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":133,"radicalVariants":"","radical":"⾄","encoding":"KANGXI RADICAL ARRIVE Unicode: U+2F84 UTF-8: E2 BE 84","meaning":"to arrive, reach","readingJ":"いたる","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":134,"radicalVariants":"","radical":"⾅","encoding":"KANGXI RADICAL MORTAR Unicode: U+2F85 UTF-8: E2 BE 85","meaning":"mortar, quern","readingJ":"うす","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":135,"radicalVariants":"","radical":"⾆","encoding":"KANGXI RADICAL TONGUE Unicode: U+2F86 UTF-8: E2 BE 86","meaning":"tongue","readingJ":"した","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":136,"radicalVariants":"","radical":"⾇","encoding":"KANGXI RADICAL OPPOSE Unicode: U+2F87 UTF-8: E2 BE 87","meaning":"contrary, to err","readingJ":"まいあし","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":137,"radicalVariants":"","radical":"⾈","encoding":"KANGXI RADICAL BOAT Unicode: U+2F88 UTF-8: E2 BE 88","meaning":"ship, boat","readingJ":"ふね","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":138,"radicalVariants":"","radical":"⾉","encoding":"KANGXI RADICAL STOPPING Unicode: U+2F89 UTF-8: E2 BE 89","meaning":"boundary","readingJ":"こん","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":139,"radicalVariants":"","radical":"⾊","encoding":"KANGXI RADICAL COLOR Unicode: U+2F8A UTF-8: E2 BE 8A","meaning":"color","readingJ":"いろ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":140,"radicalVariants":"⺿","radical":"⾋","encoding":"KANGXI RADICAL GRASS Unicode: U+2F8B UTF-8: E2 BE 8B","meaning":"grass, plant","readingJ":"くさ","positionJ":"","variant":false,"common":true}
+,
+{"strokeCount":6,"radicalNumber":141,"radicalVariants":"","radical":"⾌","encoding":"KANGXI RADICAL TIGER Unicode: U+2F8C UTF-8: E2 BE 8C","meaning":"tiger","readingJ":"とらがしら","positionJ":"かんむり","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":142,"radicalVariants":"","radical":"⾍","encoding":"KANGXI RADICAL INSECT Unicode: U+2F8D UTF-8: E2 BE 8D","meaning":"worm, insect, bug","readingJ":"むし","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":143,"radicalVariants":"","radical":"⾎","encoding":"KANGXI RADICAL BLOOD Unicode: U+2F8E UTF-8: E2 BE 8E","meaning":"blood","readingJ":"ち","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":144,"radicalVariants":"","radical":"⾏","encoding":"KANGXI RADICAL WALK ENCLOSURE Unicode: U+2F8F UTF-8: E2 BE 8F","meaning":"to go","readingJ":"ぎょうがまえ","positionJ":"かまえ, ぎょうがまえ","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":145,"radicalVariants":"⻂","radical":"⾐","encoding":"KANGXI RADICAL CLOTHES Unicode: U+2F90 UTF-8: E2 BE 90","meaning":"clothing","readingJ":"ころも","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":6,"radicalNumber":146,"radicalVariants":"西、覀","radical":"⾑","encoding":"KANGXI RADICAL WEST Unicode: U+2F91 UTF-8: E2 BE 91","meaning":"cover, west","readingJ":"にし","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":147,"radicalVariants":"見","radical":"⾒","encoding":"KANGXI RADICAL SEE Unicode: U+2F92 UTF-8: E2 BE 92","meaning":"to see","readingJ":"みる","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":148,"radicalVariants":"⻇","radical":"⾓","encoding":"KANGXI RADICAL HORN Unicode: U+2F93 UTF-8: E2 BE 93","meaning":"horn, corner","readingJ":"つの","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":149,"radicalVariants":"訁","radical":"⾔","encoding":"KANGXI RADICAL SPEECH Unicode: U+2F94 UTF-8: E2 BE 94","meaning":"words, to speak, say","readingJ":"げん","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":150,"radicalVariants":"","radical":"⾕","encoding":"KANGXI RADICAL VALLEY Unicode: U+2F95 UTF-8: E2 BE 95","meaning":"valley","readingJ":"たに","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":151,"radicalVariants":"","radical":"⾖","encoding":"KANGXI RADICAL BEAN Unicode: U+2F96 UTF-8: E2 BE 96","meaning":"bean","readingJ":"まめ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":152,"radicalVariants":"","radical":"⾗","encoding":"KANGXI RADICAL PIG Unicode: U+2F97 UTF-8: E2 BE 97","meaning":"pig","readingJ":"いのこ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":153,"radicalVariants":"","radical":"⾘","encoding":"KANGXI RADICAL BADGER Unicode: U+2F98 UTF-8: E2 BE 98","meaning":"badger","readingJ":"むじなへん","positionJ":"へん","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":154,"radicalVariants":"","radical":"⾙","encoding":"KANGXI RADICAL SHELL Unicode: U+2F99 UTF-8: E2 BE 99","meaning":"shell, property, wealth","readingJ":"かい","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":155,"radicalVariants":"","radical":"⾚","encoding":"KANGXI RADICAL RED Unicode: U+2F9A UTF-8: E2 BE 9A","meaning":"red","readingJ":"あか","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":156,"radicalVariants":"","radical":"⾛","encoding":"KANGXI RADICAL RUN Unicode: U+2F9B UTF-8: E2 BE 9B","meaning":"to run","readingJ":"はしる","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":157,"radicalVariants":"⻊","radical":"⾜","encoding":"KANGXI RADICAL FOOT Unicode: U+2F9C UTF-8: E2 BE 9C","meaning":"foot, leg","readingJ":"あし","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":158,"radicalVariants":"","radical":"⾝","encoding":"KANGXI RADICAL BODY Unicode: U+2F9D UTF-8: E2 BE 9D","meaning":"body","readingJ":"み","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":159,"radicalVariants":"","radical":"⾞","encoding":"KANGXI RADICAL CART Unicode: U+2F9E UTF-8: E2 BE 9E","meaning":"vehicle, wheel, car","readingJ":"くるま","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":160,"radicalVariants":"","radical":"⾟","encoding":"KANGXI RADICAL BITTER Unicode: U+2F9F UTF-8: E2 BE 9F","meaning":"bitter","readingJ":"からい","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":161,"radicalVariants":"","radical":"⾠","encoding":"KANGXI RADICAL MORNING Unicode: U+2FA0 UTF-8: E2 BE A0","meaning":"Fifth zodiac sign, 7–9 A.M.","readingJ":"しんのたつ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":162,"radicalVariants":"⻌、⻍、⻎","radical":"⾡","encoding":"KANGXI RADICAL WALK Unicode: U+2FA1 UTF-8: E2 BE A1","meaning":"to advance, move ahead","readingJ":"しんにょう","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":163,"radicalVariants":"⻏","radical":"⾢","encoding":"KANGXI RADICAL CITY Unicode: U+2FA2 UTF-8: E2 BE A2","meaning":"community","readingJ":"むら","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":164,"radicalVariants":"","radical":"⾣","encoding":"KANGXI RADICAL WINE Unicode: U+2FA3 UTF-8: E2 BE A3","meaning":"sake jar, bird","readingJ":"ひよみのとり","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":165,"radicalVariants":"","radical":"⾤","encoding":"KANGXI RADICAL DISTINGUISH Unicode: U+2FA4 UTF-8: E2 BE A4","meaning":"to separate","readingJ":"のごめ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":7,"radicalNumber":166,"radicalVariants":"","radical":"⾥","encoding":"KANGXI RADICAL VILLAGE Unicode: U+2FA5 UTF-8: E2 BE A5","meaning":"village, (3.93 km)","readingJ":"さと","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":8,"radicalNumber":167,"radicalVariants":"釒","radical":"⾦","encoding":"KANGXI RADICAL GOLD Unicode: U+2FA6 UTF-8: E2 BE A6","meaning":"metal, gold, mineral","readingJ":"かね","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":8,"radicalNumber":168,"radicalVariants":"镸","radical":"⾧","encoding":"KANGXI RADICAL LONG Unicode: U+2FA7","meaning":"long","readingJ":"ながい","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":8,"radicalNumber":169,"radicalVariants":"","radical":"⾨","encoding":"KANGXI RADICAL GATE Unicode: U+2FA8 UTF-8: E2 BE A8","meaning":"gate, door","readingJ":"もんがまえ","positionJ":"かまえ, もんがまえ","variant":false,"common":false}
+,
+{"strokeCount":8,"radicalNumber":170,"radicalVariants":"⻖","radical":"⾩","encoding":"KANGXI RADICAL MOUND Unicode: U+2FA9 UTF-8: E2 BE A9","meaning":"hill","readingJ":"こざと","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":8,"radicalNumber":171,"radicalVariants":"","radical":"⾪","encoding":"KANGXI RADICAL SLAVE Unicode: U+2FAA UTF-8: E2 BE AA","meaning":"to capture","readingJ":"れいづくり","positionJ":"つくり","variant":false,"common":false}
+,
+{"strokeCount":8,"radicalNumber":172,"radicalVariants":"","radical":"⾫","encoding":"KANGXI RADICAL SHORT TAILED BIRD Unicode: U+2FAB UTF-8: E2 BE AB","meaning":"small bird","readingJ":"ふるとり","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":8,"radicalNumber":173,"radicalVariants":"","radical":"⾬","encoding":"KANGXI RADICAL RAIN Unicode: U+2FAC UTF-8: E2 BE AC","meaning":"rain","readingJ":"あめ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":8,"radicalNumber":174,"radicalVariants":"青 ","radical":"⾭","encoding":"KANGXI RADICAL BLUE Unicode: U+2FAD UTF-8: E2 BE AD","meaning":"blue, green","readingJ":"あお","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":8,"radicalNumber":175,"radicalVariants":"","radical":"⾮","encoding":"KANGXI RADICAL WRONG Unicode: U+2FAE UTF-8: E2 BE AE","meaning":"wrong, non-","readingJ":"あらず","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":9,"radicalNumber":176,"radicalVariants":"靣","radical":"⾯","encoding":"KANGXI RADICAL FACE Unicode: U+2FAF UTF-8: E2 BE AF","meaning":"face, surface","readingJ":"めん","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":9,"radicalNumber":177,"radicalVariants":"","radical":"⾰","encoding":"KANGXI RADICAL LEATHER Unicode: U+2FB0 UTF-8: E2 BE B0","meaning":"leather","readingJ":"つくりがわ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":9,"radicalNumber":178,"radicalVariants":"","radical":"⾱","encoding":"KANGXI RADICAL TANNED LEATHER Unicode: U+2FB1 UTF-8: E2 BE B1","meaning":"leather","readingJ":"なめしがわ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":9,"radicalNumber":179,"radicalVariants":"","radical":"⾲","encoding":"KANGXI RADICAL LEEK Unicode: U+2FB2 UTF-8: E2 BE B2","meaning":"leek","readingJ":"にら","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":9,"radicalNumber":180,"radicalVariants":"","radical":"⾳","encoding":"KANGXI RADICAL SOUND Unicode: U+2FB3 UTF-8: E2 BE B3","meaning":"sound, noise","readingJ":"おと","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":9,"radicalNumber":181,"radicalVariants":"","radical":"⾴","encoding":"KANGXI RADICAL LEAF Unicode: U+2FB4 UTF-8: E2 BE B4","meaning":"head, page","readingJ":"おおがい","positionJ":"つくり","variant":false,"common":false}
+,
+{"strokeCount":9,"radicalNumber":182,"radicalVariants":"","radical":"⾵","encoding":"KANGXI RADICAL WIND Unicode: U+2FB5 UTF-8: E2 BE B5","meaning":"wind","readingJ":"かぜ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":9,"radicalNumber":183,"radicalVariants":"","radical":"⾶","encoding":"KANGXI RADICAL FLY Unicode: U+2FB6 UTF-8: E2 BE B6","meaning":"to fly","readingJ":"とぶ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":9,"radicalNumber":184,"radicalVariants":"飠","radical":"⾷","encoding":"KANGXI RADICAL EAT Unicode: U+2FB7 UTF-8: E2 BE B7","meaning":"food, to eat","readingJ":"しょく","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":9,"radicalNumber":185,"radicalVariants":"","radical":"⾸","encoding":"KANGXI RADICAL HEAD Unicode: U+2FB8 UTF-8: E2 BE B8","meaning":"head","readingJ":"くび","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":9,"radicalNumber":186,"radicalVariants":"","radical":"⾹","encoding":"KANGXI RADICAL FRAGRANT Unicode: U+2FB9 UTF-8: E2 BE B9","meaning":"scent","readingJ":"かおり","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":10,"radicalNumber":187,"radicalVariants":"","radical":"⾺","encoding":"KANGXI RADICAL HORSE Unicode: U+2FBA UTF-8: E2 BE BA","meaning":"horse","readingJ":"うま","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":10,"radicalNumber":188,"radicalVariants":"","radical":"⾻","encoding":"KANGXI RADICAL BONE Unicode: U+2FBB UTF-8: E2 BE BB","meaning":"bone","readingJ":"ほね","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":10,"radicalNumber":189,"radicalVariants":"髙","radical":"⾼","encoding":"KANGXI RADICAL TALL Unicode: U+2FBC UTF-8: E2 BE BC","meaning":"high","readingJ":"たかい","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":10,"radicalNumber":190,"radicalVariants":"","radical":"⾽","encoding":"KANGXI RADICAL HAIR Unicode: U+2FBD UTF-8: E2 BE BD","meaning":"long hair","readingJ":"かみかんむり","positionJ":"かんむり","variant":false,"common":false}
+,
+{"strokeCount":10,"radicalNumber":191,"radicalVariants":"","radical":"⾾","encoding":"KANGXI RADICAL FIGHT Unicode: U+2FBE UTF-8: E2 BE BE","meaning":"fighting","readingJ":"たたかいがまえ","positionJ":"かまえ","variant":false,"common":false}
+,
+{"strokeCount":10,"radicalNumber":192,"radicalVariants":"","radical":"⾿","encoding":"KANGXI RADICAL SACRIFICIAL WINE Unicode: U+2FBF UTF-8: E2 BE BF","meaning":"herbs","readingJ":"においざけ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":10,"radicalNumber":193,"radicalVariants":"","radical":"⿀","encoding":"KANGXI RADICAL CAULDRON Unicode: U+2FC0 UTF-8: E2 BF 80","meaning":"tripod","readingJ":"れき","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":10,"radicalNumber":194,"radicalVariants":"","radical":"⿁","encoding":"KANGXI RADICAL GHOST Unicode: U+2FC1 UTF-8: E2 BF 81","meaning":"demon","readingJ":"おに","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":11,"radicalNumber":195,"radicalVariants":"","radical":"⿂","encoding":"KANGXI RADICAL FISH Unicode: U+2FC2 UTF-8: E2 BF 82","meaning":"fish","readingJ":"うお","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":11,"radicalNumber":196,"radicalVariants":"","radical":"⿃","encoding":"KANGXI RADICAL BIRD Unicode: U+2FC3 UTF-8: E2 BF 83","meaning":"bird","readingJ":"とり","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":11,"radicalNumber":197,"radicalVariants":"","radical":"⿄","encoding":"KANGXI RADICAL SALT Unicode: U+2FC4 UTF-8: E2 BF 84","meaning":"salt","readingJ":"しお","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":11,"radicalNumber":198,"radicalVariants":"","radical":"⿅","encoding":"KANGXI RADICAL DEER Unicode: U+2FC5 UTF-8: E2 BF 85","meaning":"deer","readingJ":"しか","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":11,"radicalNumber":199,"radicalVariants":"","radical":"⿆","encoding":"KANGXI RADICAL WHEAT Unicode: U+2FC6 UTF-8: E2 BF 86","meaning":"wheat","readingJ":"むぎ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":11,"radicalNumber":200,"radicalVariants":"","radical":"⿇","encoding":"KANGXI RADICAL HEMP Unicode: U+2FC7 UTF-8: E2 BF 87","meaning":"hemp","readingJ":"あさ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":12,"radicalNumber":201,"radicalVariants":"","radical":"⿈","encoding":"KANGXI RADICAL YELLOW Unicode: U+2FC8 UTF-8: E2 BF 88","meaning":"yellow","readingJ":"き","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":12,"radicalNumber":202,"radicalVariants":"","radical":"⿉","encoding":"KANGXI RADICAL MILLET Unicode: U+2FC9 UTF-8: E2 BF 89","meaning":"millet","readingJ":"きび","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":12,"radicalNumber":203,"radicalVariants":"","radical":"⿊","encoding":"KANGXI RADICAL BLACK Unicode: U+2FCA UTF-8: E2 BF 8A","meaning":"black","readingJ":"くろ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":12,"radicalNumber":204,"radicalVariants":"","radical":"⿋","encoding":"KANGXI RADICAL EMBROIDERY Unicode: U+2FCB UTF-8: E2 BF 8B","meaning":"embroider","readingJ":"ぬいとり","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":13,"radicalNumber":205,"radicalVariants":"","radical":"⿌","encoding":"KANGXI RADICAL FROG Unicode: U+2FCC UTF-8: E2 BF 8C","meaning":"frog","readingJ":"かえる","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":13,"radicalNumber":206,"radicalVariants":"","radical":"⿍","encoding":"KANGXI RADICAL TRIPOD Unicode: U+2FCD UTF-8: E2 BF 8D","meaning":"tripod","readingJ":"かなえ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":13,"radicalNumber":207,"radicalVariants":"","radical":"⿎","encoding":"KANGXI RADICAL DRUM Unicode: U+2FCE UTF-8: E2 BF 8E","meaning":"drum","readingJ":"つづみ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":13,"radicalNumber":208,"radicalVariants":"","radical":"⿏","encoding":"KANGXI RADICAL RAT Unicode: U+2FCF UTF-8: E2 BF 8F","meaning":"rat, mouse","readingJ":"ねずみ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":14,"radicalNumber":209,"radicalVariants":"","radical":"⿐","encoding":"KANGXI RADICAL NOSE Unicode: U+2FD0 UTF-8: E2 BF 90","meaning":"nose","readingJ":"はな","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":14,"radicalNumber":210,"radicalVariants":"斉","radical":"⿑","encoding":"KANGXI RADICAL EVEN Unicode: U+2FD1 UTF-8: E2 BF 91","meaning":"alike","readingJ":"せい","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":15,"radicalNumber":211,"radicalVariants":"","radical":"⿒","encoding":"KANGXI RADICAL TOOTH Unicode: U+2FD2 UTF-8: E2 BF 92","meaning":"tooth","readingJ":"は","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":16,"radicalNumber":212,"radicalVariants":"","radical":"⿓","encoding":"KANGXI RADICAL DRAGON Unicode: U+2FD3 UTF-8: E2 BF 93","meaning":"dragon","readingJ":"りゅう","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":16,"radicalNumber":213,"radicalVariants":"","radical":"⿔","encoding":"KANGXI RADICAL TURTLE Unicode: U+2FD4 UTF-8: E2 BF 94","meaning":"turtle","readingJ":"かめ","positionJ":"","variant":false,"common":false}
+,
+{"strokeCount":17,"radicalNumber":214,"radicalVariants":"","radical":"⿕","encoding":"KANGXI RADICAL FLUTE Unicode: U+2FD5 UTF-8: E2 BF 95","meaning":"flute","readingJ":"やく","positionJ":"","variant":false,"common":false}
+
+]
