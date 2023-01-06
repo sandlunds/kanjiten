@@ -3,7 +3,9 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        kouzan: ['Kouzan']
+        kouzan: ['Kouzan'],
+        radicals: ['AdobeRadicals'],
+        hanserif: ['AdobeHanSerif'],
       }
     },
   },

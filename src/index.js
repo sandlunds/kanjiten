@@ -2,7 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
-import { App, radicalLoader } from "./app";
+import { App } from "./app";
+import { radicalLoader } from "./radicals";
 import { ErrorPage } from "./error-page";
 
 const router = createBrowserRouter([

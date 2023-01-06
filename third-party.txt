@@ -1,6 +1,12 @@
 Cursive font
 https://opentype.jp/kouzangyousho.htm
 
+Radical font
+https://github.com/adobe-fonts/cjk-radicals
+
+Normal CJK font
+https://source.typekit.com/source-han-serif
+
 JMdict for Japanese words
 http://www.edrdg.org/jmdict/j_jmdict.html
 

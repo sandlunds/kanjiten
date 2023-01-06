@@ -7,3 +7,13 @@
     font-family: Kouzan;
     src: url("./assets/KouzanGyoushoOTF.otf") format("opentype");
 }
+
+@font-face {
+    font-family: AdobeRadicals;
+    src: url("./assets/CJKRadicals-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: AdobeHanSerif;
+    src: url("./assets/SourceHanSerif-Regular.otf") format("opentype");
+}
