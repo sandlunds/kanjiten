@@ -11,10 +11,10 @@ interface RadicalProps {
 function Radical({ radical }: RadicalProps) {
   return (
     <div className='radical-grid'>
-      <div className='vertical text-gray-700 font-hanserif'>{radical.readingJ}</div>
+      <div className='vertical opacity-60 font-hanserif'>{radical.readingJ}</div>
       <div className="text-6xl">{radical.radical}</div>
       <div></div>
-      <div className='text-gray-700 text-sm font-hanserif'>{radical.radicalVariants}</div>
+      <div className='opacity-60 text-sm font-hanserif'>{radical.radicalVariants}</div>
     </div>
   );
 }
@@ -22,7 +22,7 @@ function Radical({ radical }: RadicalProps) {
 function RadicalGroup({ strokes, radicals }: { strokes: number, radicals: Radical[] }) {
   return (
     <div>
-      <div className='bg-gray-200 mb-4 p-2 font-hanserif'>
+      <div className='dark:bg-neutral-900 bg-gray-200 mb-4 p-2 font-hanserif'>
         画 {strokes}
       </div>
       <div className='radical-group-grid gap-4 p-2 font-radicals'>
@@ -58,7 +58,8 @@ export function App() {
 
   return (
     <div className="">
-      <h1 className='flex m-4 justify-center font-kouzan text-8xl'>辞典</h1>
+      <h1 className='flex m-4 mb-8 justify-center font-kouzan text-8xl'>辞典</h1>
+      <h2 className='flex m-4 mb-8 font-kouzan text-6xl'>部首</h2>
       <RadicalIndex radicals={byStrokes} />
     </div>
   );
