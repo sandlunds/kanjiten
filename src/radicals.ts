@@ -7,7 +7,7 @@ export interface Radical {
     readingJ: string;
 }
 
-export async function radicalLoader() {
+export async function radicalIndexLoader() {
     return fetch("/japanese-radicals.json");
 }
 
@@ -36,3 +36,4 @@ export function processRadicals(radicals: Radical[]) {
 
     return { byStrokes, standard, variants };
 }
+

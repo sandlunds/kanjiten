@@ -1,5 +1,5 @@
 import React, { ReactElement } from 'react';
-import { useLoaderData } from 'react-router-dom';
+import { Link, useLoaderData } from 'react-router-dom';
 
 import { processRadicals, Radical } from './radicals';
 import './app.css';
@@ -12,7 +12,9 @@ function Radical({ radical }: RadicalProps) {
   return (
     <div className='radical-grid'>
       <div className='vertical opacity-60 font-hanserif'>{radical.readingJ}</div>
-      <div className="text-6xl">{radical.radical}</div>
+      <div className="text-6xl">
+        <Link to={'radical/' + radical.radicalNumber}>{radical.radical}</Link>
+      </div>
       <div></div>
       <div className='opacity-60 text-sm font-hanserif'>{radical.radicalVariants}</div>
     </div>
