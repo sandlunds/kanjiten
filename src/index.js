@@ -3,13 +3,13 @@ import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 import { App } from "./app";
-import { radicalIndexLoader } from "./radicals";
+import { kanjiIndexLoader, radicalIndexLoader } from "./language-data-loaders";
 import { ErrorPage } from "./error-page";
-import { radicalLoader, RadicalPage } from "./radical-page";
+import { KanjiIndex } from "./pages/kanji-index";
 
 const router = createBrowserRouter([
     { path: "/", element: <App />, loader: radicalIndexLoader, errorElement: <ErrorPage /> },
-    { path: "/radical/:radical", element: <RadicalPage />, loader: radicalLoader, errorElement: < ErrorPage /> },
+    { path: "/radical/:radical", element: <KanjiIndex />, loader: kanjiIndexLoader, errorElement: < ErrorPage /> },
 ]);
 
 ReactDOM.createRoot(document.getElementById("app")).render(
