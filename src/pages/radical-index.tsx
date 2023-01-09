@@ -1,3 +1,4 @@
+import classNames from 'classnames';
 import React, { ReactElement } from 'react';
 import { Link, useLoaderData } from 'react-router-dom';
 
@@ -9,10 +10,11 @@ interface RadicalProps {
 }
 
 function Radical({ radical }: RadicalProps) {
+  const radicalClass = classNames('text-6xl', { "opacity-40": radical.variant});
   return (
     <div className='radical-grid'>
       <div className='vertical opacity-60 font-hanserif'>{radical.readingJ}</div>
-      <div className="text-6xl">
+      <div className={radicalClass}>
         <Link to={'radical/' + radical.radicalNumber}>{radical.radical}</Link>
       </div>
       <div></div>
