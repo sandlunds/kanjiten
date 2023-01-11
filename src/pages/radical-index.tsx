@@ -30,7 +30,7 @@ function RadicalGroup({ strokes, radicals }: { strokes: number, radicals: Radica
         画 {strokes}
       </div>
       <div className='radical-group-grid gap-4 p-2 font-radicals'>
-        {radicals.map(radical => <Radical radical={radical} />)}
+        {radicals.map(radical => <Radical key={radical.radical} radical={radical} />)}
       </div>
     </div>
   );
@@ -46,7 +46,7 @@ export function RadicalIndex() {
   let radicalGroups: ReactElement[] = [];
 
   for (let i = 1; i < byStrokes.length; i++) {
-    radicalGroups.push(<RadicalGroup strokes={i} radicals={byStrokes[i]} />);
+    radicalGroups.push(<RadicalGroup key={i} strokes={i} radicals={byStrokes[i]} />);
   }
 
   return (
